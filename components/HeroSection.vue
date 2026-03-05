@@ -102,14 +102,14 @@
 
 <script setup>
 const photos = [
-  'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop&q=70',
-  'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop&q=70',
-  'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=600&h=400&fit=crop&q=70',
-  'https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=600&h=400&fit=crop&q=70',
-  'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop&q=70',
-  'https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=600&h=400&fit=crop&q=70',
-  'https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=600&h=400&fit=crop&q=70',
-  'https://images.unsplash.com/photo-1600585152915-d208bec867a1?w=600&h=400&fit=crop&q=70',
+  'https://i.ytimg.com/vi/50O-4nIqy0U/maxresdefault.jpg',
+  'https://avatars.mds.yandex.net/i?id=734d0ad6e81f5cac38c2599fdf2dca9b_l-5273766-images-thumbs&n=13',
+  'https://xn--80az8a.xn--d1aqf.xn--p1ai/resizer/v2/image?dpr=1&enlarge=true&extend=true&height=0&imageUrl=AA%2F68%2F0B%2F46%2FE8%2F6B%2F4A%2F1C%2F87%2FCB%2FBB%2F53%2F00%2F10%2F96%2F34%2FAA680B46E86B4A1C87CBBB5300109634&quality=80&resizeType=fill&systemClientId=igs-client&width=1032',
+  'https://i.pinimg.com/originals/b9/15/b8/b915b83a0d912ec29b05c1096075bc52.jpg?nii=t',
+  'https://avatars.mds.yandex.net/get-altay/1923723/2a0000016c6fa39780c2e0f19eb2413532cb/XXL_height',
+  'https://avatars.mds.yandex.net/i?id=175490f7c126352cbcd90186920aacbb_l-3598911-images-thumbs&n=13',
+  'https://honka.ru/wp-content/uploads/2018/07/Copy-of-Main-photo-Safiiri-130-1A-e1594208067919.jpg',
+  'https://avatars.mds.yandex.net/i?id=964027f3c958fb5dea207016340ea0ec_l-5204637-images-thumbs&n=13',
 ]
 </script>
 

@@ -46,7 +46,7 @@ onMounted(() => {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 22px;
+  gap: 36px;
   animation: al-rise 0.45s cubic-bezier(0.2, 0, 0, 1) both;
 }
 
@@ -56,12 +56,12 @@ onMounted(() => {
 }
 
 .al-logo {
-  height: 28px;
+  height: 56px;
 }
 
 .al-track {
-  width: 64px;
-  height: 1.5px;
+  width: 120px;
+  height: 2px;
   background: rgba(255, 255, 255, 0.07);
   border-radius: 2px;
   overflow: hidden;
